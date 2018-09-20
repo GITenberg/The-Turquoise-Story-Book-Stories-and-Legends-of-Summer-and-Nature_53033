@@ -1,0 +1,37 @@
+_repo: The-Turquoise-Story-Book-Stories-and-Legends-of-Summer-and-Nature_53033
+_version: 0.0.1
+contributor:
+  compilers:
+  - agent_name: Skinner, Ada M. (Ada Maria)
+    alias: Skinner, Ada Maria
+    birthdate: 1878
+    gutenberg_agent_id: '1679'
+    url: http://www.gutenberg.org/2009/agents/1679
+  - agent_name: Skinner, Eleanor L. (Eleanor Louise)
+    alias: Skinner, Eleanor Louise
+    birthdate: 1872
+    gutenberg_agent_id: '37116'
+    url: http://www.gutenberg.org/2009/agents/37116
+  illustrator:
+    agent_name: Parrish, Maxfield
+    birthdate: 1870
+    deathdate: 1966
+    gutenberg_agent_id: '9605'
+    url: http://www.gutenberg.org/2009/agents/9605
+    wikipedia: http://en.wikipedia.org/wiki/Maxfield_Parrish
+description: ''
+gutenberg_issued: '2016-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53033'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nature -- Juvenile literature'
+- !lcsh 'Summer -- Juvenile literature'
+- !lcc 'PZ'
+- GITenberg
+title: 'The Turquoise Story Book: Stories and Legends of Summer and Nature'
+url: http://www.gutenberg.org/ebooks/53033
