@@ -19,7 +19,12 @@ contributor:
     gutenberg_agent_id: '9605'
     url: http://www.gutenberg.org/2009/agents/9605
     wikipedia: http://en.wikipedia.org/wiki/Maxfield_Parrish
+covers:
+- cover_type: archival
+  image_path: 53033-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53033#The-Turquoise-Story-Book-Stories-and-Legends-of-Summer-and-Nature
 gutenberg_issued: '2016-09-12'
 gutenberg_type: Text
 identifiers:
